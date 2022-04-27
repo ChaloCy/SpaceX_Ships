@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SpaceX Ships</string>
+    <string name="no_ship_found">No ships found</string>
+    <string name="connection_error">Connection error</string>
+    <string name="home_port">Home Port:</string>
+    <string name="built_in">Built in:</string>
+    <string name="ship_type">Ship Type:</string>
+    <string name="not_specified">Not specified</string>
+    <string name="search_for_a_ship">Search for a ship</string>
+</resources>
