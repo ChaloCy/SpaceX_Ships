@@ -1,5 +1,8 @@
 # SpaceX_Ships
  
+[app-debug.zip](https://github.com/ChaloCy/SpaceX_Ships/files/8587299/app-debug.zip)
+
+ 
  A search screen displaying a list of ships (names & images):
  
 ![WhatsApp Image 2022-04-28 at 2 08 22 AM](https://user-images.githubusercontent.com/53512422/165863319-f90a14d2-e184-466f-b80f-a02b66299a22.jpeg)
